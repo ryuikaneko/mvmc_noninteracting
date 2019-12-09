@@ -1,0 +1,16 @@
+L = 12
+Lsub=1
+phase0=0
+model = "Hubbard"
+lattice = "chain"
+t = 1.0
+U = 0.0
+V = 0.0
+nelec = 6
+2Sz = 0
+NSROptItrStep = 5
+//NVMCCalMode = 1
+//NDataQtySmp = 5
+//NVMCWarmUp = 10000
+//NVMCSample = 10000
+NSPGaussLeg = 1
