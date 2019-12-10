@@ -1,0 +1,10 @@
+L 4
+Lorb 2
+Ns 32
+Nup,Ndn 16
+Ne 32
+phasex 0.0
+phasey 0.0
+mu 0.0
+gap 1.9999999999999996
+ene -50.83281572999748
